@@ -9,4 +9,5 @@ Welcome to the PyTorch Training repository for the NJAMI Lab. This repository is
 ## Code Samples: Two code examples are provided to illustrate PyTorch in action:
 
   Regression Example: Demonstrates how to implement a regression model in PyTorch.
+  
   Classification Example: Shows the steps to build and train a classification model using PyTorch.
