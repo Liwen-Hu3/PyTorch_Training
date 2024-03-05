@@ -7,10 +7,3 @@ Lecture Video: A comprehensive introduction to the fundamentals of PyTorch, perf
 Code Samples: Two code examples are provided to illustrate PyTorch in action:
 Regression Example: Demonstrates how to implement a regression model in PyTorch.
 Classification Example: Shows the steps to build and train a classification model using PyTorch.
-# Prerequisites
-To make the most of this repository, you should have the following installed on your PC:
-
-Python 3.6 or later
-PyTorch 1.8.0 or later
-NumPy
-Matplotlib (optional, for plotting)
